@@ -1,0 +1,1 @@
+In this project we are going to create a mp3 player which allows the local mp3 files to play in it.
